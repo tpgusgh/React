@@ -1,0 +1,20 @@
+.divonly{
+    height: 61px;
+}
+hr{
+    color: #C9BAC9;
+}
+.button1{
+    border-radius: 5px;
+    background-color: #E5E4F0;
+    background: var(--1, #E5E4F0);
+    position: fixed;
+    right: 1%;
+    color: var(--Labels-Primary, #000);
+    font-family: "ONE Mobile POP";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 0.45px;
+}

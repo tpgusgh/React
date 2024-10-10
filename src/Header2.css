@@ -1,0 +1,13 @@
+.sumnal{
+    background-color: #D9D9D94D;
+    height: 200px;
+    position: relative;
+    width: auto;
+}
+
+.bigger{
+    font-size: 100px;
+    text-align: center;
+    position: relative;
+    top: 20%;
+}
