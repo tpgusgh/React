@@ -3,6 +3,7 @@ import Header from "./Header";
 import Belog from "./Belog";
 
 
+
 function App() {
   return (
     <div>
@@ -11,7 +12,12 @@ function App() {
       <br></br>
       <br></br>
       <Belog />
-
+      <Belog />
+      <Belog />
+      <Belog />
+      <Belog />
+      <Belog />
+      <Belog />
     </div>
   );
 }

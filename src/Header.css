@@ -8,8 +8,8 @@ hr{
     border-radius: 5px;
     background-color: #E5E4F0;
     background: var(--1, #E5E4F0);
-    position: fixed;
     right: 1%;
+    position: absolute;
     color: var(--Labels-Primary, #000);
     font-family: "ONE Mobile POP";
     font-size: 18px;

@@ -1,6 +1,22 @@
 .belog{
     border: 1px solid black;
     position: relative;
-    width: auto;
-    height: 130px;
+    width: 50%;
+    height: 170px;
+    right: -25%;
+    
+}
+
+img{
+    width: 125px;
+    height: 140px;
+    position: absolute;
+    right: 5%;
+    top: 7%;
+}
+.big{
+    font-size: 30px;
+    position: absolute;
+    left: 5%;
+    top: 1%;
 }
